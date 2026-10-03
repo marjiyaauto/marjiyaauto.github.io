@@ -13,3 +13,4 @@ Sitemap: https://marjiyaauto.github.io/marjiya.auto/sitemap.xml
 
 # Crawl delay (be polite to servers)
 Crawl-delay: 10
+
